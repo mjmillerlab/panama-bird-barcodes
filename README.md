@@ -1,3 +1,6 @@
+##authors
+Matthew Miller (Smithsonian Tropical Research Institute & Villanova University), Daniel Buitrago-Rosas (Smithsonian Tropical Research Institute), Justin Bernstein (Villanova University), Eldredge Bermingham ( Smithsonian Tropical Research Institute & the Patricia and Phillip Frost Museum of Science)
+
 ## overview
 Our goal was to sequence a 652 basepair fragment of the  COI mitocondrial gene from as many Panamanian breeding bird species across their national range as possible, given existing vouchered tissue samples, in order to provide baseline taxonomic, biogeographic, and phyogeographic data on Panamanian bird diversity.
 
