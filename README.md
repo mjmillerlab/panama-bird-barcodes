@@ -1,4 +1,4 @@
-##authors
+## authors
 Matthew Miller (Smithsonian Tropical Research Institute & Villanova University), Daniel Buitrago-Rosas (Smithsonian Tropical Research Institute), Justin Bernstein (Villanova University), Eldredge Bermingham ( Smithsonian Tropical Research Institute & the Patricia and Phillip Frost Museum of Science)
 
 ## overview
